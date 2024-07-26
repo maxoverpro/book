@@ -2,5 +2,5 @@
  $host = 'localhost';
  $dbname = 'webhack';
  $user = 'root';
- $passwd = '';
+ $passwd = 'admin';
 ?>
